@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/1minami/GitHub-Packages/issues"
   },
-  "homepage": "https://github.com/1minami/GitHub-Packages#readme"
+  "homepage": "https://github.com/1minami/GitHub-Packages#readme",
+  "publishConfig": {
+    "@1minami:registry": "https://npm.pkg.github.com"
+  }
 }

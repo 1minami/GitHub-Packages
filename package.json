@@ -1,0 +1,19 @@
+{
+  "name": "@1minami/GitHub-Packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1minami/GitHub-Packages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1minami/GitHub-Packages/issues"
+  },
+  "homepage": "https://github.com/1minami/GitHub-Packages#readme"
+}
